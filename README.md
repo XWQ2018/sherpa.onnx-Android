@@ -1,2 +1,2 @@
-# sherpa-onnx
-sherpa-onnx uts use for android
+# sherpa.onnx-Android
+sherpa.onnx-Android uts use for android
